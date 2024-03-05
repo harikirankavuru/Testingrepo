@@ -1,0 +1,7 @@
+classes/*
+!classes/Sales*
+!classes/sales*
+classes/Sales_CRM*
+classes/sales_crm*
+classes/SalesCRM*
+classes/salescrm*
